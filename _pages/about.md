@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bout_race.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a Principal Researcher in Microsoft Research Health Futures based in Cambridge, UK. My research focuses on machine learning for healthcare, which means I think a lot about both machine learning and healthcare.
+Recently, I have been working on vision-language/multimodal models for radiology, such as the [MAIRA-1](https://arxiv.org/abs/2311.13668) and [MAIRA-2](https://arxiv.org/abs/2406.04449) models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I joined Microsoft Research in 2019. Before that, I received a PhD in computational biology and medicine from the [Tri-Institutional PhD Program of Cornell University](https://gradschool.weill.cornell.edu/programs/tri-institutional-phd-programs), during which time I was situated at the Memorial Sloan Kettering Cancer Center in NYC, and later ETH Zürich. Before that, I studied theoretical physics at Trinity College Dublin, and mathematics (Part III) at the University of Cambridge.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Some of my [other interests](http://apeiroto.pe/) include roller derby, board games, and watching the wildlife in my garden.
