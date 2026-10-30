@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Semi-annual website redesign complete.
+Semi-annual website redesign complete. Lots happened before this, I might add them one day.
