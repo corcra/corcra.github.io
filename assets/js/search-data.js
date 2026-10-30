@@ -16,8 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-semi-annual-website-redesign-complete",
-          title: 'Semi-annual website redesign complete.',
+        },{id: "news-semi-annual-website-redesign-complete-lots-happened-before-this-i-might-add-them-one-day",
+          title: 'Semi-annual website redesign complete. Lots happened before this, I might add them one...',
+          description: "",
+          section: "News",},{id: "news-padchest-gr-is-out-in-nejm-ai",
+          title: 'PadChest-GR is out in NEJM-AI!',
+          description: "",
+          section: "News",},{id: "news-nova-was-accepted-to-ml4h",
+          title: 'NOVA was accepted to ML4H!',
+          description: "",
+          section: "News",},{id: "news-officially-a-manager-in-the-eyes-of-microsoft",
+          title: 'Officially a manager in the eyes of Microsoft.',
+          description: "",
+          section: "News",},{id: "news-i-was-an-invited-speaker-and-impromptu-panelist-at-the-royal-college-of-radiologists-global-ai-conference",
+          title: 'I was an invited speaker and impromptu panelist at the Royal College of...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
